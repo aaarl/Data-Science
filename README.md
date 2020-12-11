@@ -1,5 +1,7 @@
 # Data-Science
 
+Link zur Google Doc: https://docs.google.com/document/d/1K2frJXbwIcWzYdbauTRSHhO0AH-7IQMaYdTZ-nyZb0Q/edit?usp=sharing
+
 ## TODO
 - Business Understandin schreiben
 - Einleitung/CRISP-DM schreiben
