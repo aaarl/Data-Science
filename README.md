@@ -1,6 +1,6 @@
 # Data-Science
 
-Link zur Google Doc: https://docs.google.com/document/d/1K2frJXbwIcWzYdbauTRSHhO0AH-7IQMaYdTZ-nyZb0Q/edit?usp=sharing
+Link zur Google Doc: https://docs.google.com/document/d/1VHNHLRZtnDUGsXpSQcH1D46QQ5o75YK827jchYUHxlE/edit
 
 ## TODO
 - Business Understandin schreiben
