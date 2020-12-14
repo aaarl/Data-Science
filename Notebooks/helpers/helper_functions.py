@@ -21,3 +21,10 @@ def translate_to_local_file_path(filename,directory=''):
 
 def translate_to_file_string(filepath):
     return f"file:///{abspath(filepath)}"
+
+def delete_space(df):
+    names = df.schema.names
+    for name in names:
+        newName = name.replace(" ","")
+        df = df.withColumnRenamed(name, newName)
+    return df
