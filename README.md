@@ -4,7 +4,7 @@ Link zur Google Doc: https://docs.google.com/document/d/1VHNHLRZtnDUGsXpSQcH1D46
 
 ## TODO
 - Dokumentation aller Visualisierungen 
-- Modell (SVM)
+- Modell
 - Evaluierung --> Code und Beschreibung 
 
 Optional:
